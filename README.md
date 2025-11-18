@@ -60,6 +60,8 @@ conda create -n cotyle python=3.10
 conda activate cotyle
 pip install torch==2.6.0 torchvision==0.21.0
 pip install -e git+https://github.com/Lakonik/piFlow.git@b1ef16e5e305251bccdfeac2a0e3d0ef339b974a#egg=lakonlab
+# If the above command throws an error, execute the following command instead.
+# pip install -e git+https://github.com/Lakonik/piFlow.git@b1ef16e5e305251bccdfeac2a0e3d0ef339b974a#egg=lakonlab --no-build-isolation
 pip install -r requirements.txt
 ```
 
