@@ -69,7 +69,7 @@ You can download them from [Hugging Face](https://huggingface.co/Kwai-Kolors/CoT
 ```bash
 git lfs install
 git clone https://huggingface.co/Kwai-Kolors/CoTyle
-mv Kolors-CoTyle pretrained_models
+mv CoTyle pretrained_models
 ```
 
 ### 🚄 Code-to-Style Generation
