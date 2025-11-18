@@ -72,7 +72,7 @@ def main(args):
 
     if args.accelerate:
         adapter_name = pipeline.load_piflow_adapter(  # you may later call `pipe.set_adapters([adapter_name, ...])` to combine other adapters (e.g., style LoRAs)
-            'pretrained_models/pi-Qwen-Image',
+            'Lakonik/pi-Qwen-Image',
             subfolder='gmqwen_k8_piid_4step',
             target_module_name='transformer')
         pipeline.scheduler = FlowMatchEulerDiscreteScheduler.from_config(  # use fixed shift=3.2
