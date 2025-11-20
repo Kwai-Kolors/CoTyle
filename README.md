@@ -138,7 +138,7 @@ python app.py
 
 <strong>Tips</strong>:
 - Adjust the <strong>Number of Prompts</strong> slider to add or remove input rows.
-- Type your own prompts directly in the text boxes .
+- Type your own prompts directly in the text boxes.
 - You can click any template below to quickly load preset style code and prompts.
 <p align="center">
 <img src="assets/demo.png" width=95% height=95% 
