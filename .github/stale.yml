@@ -1,0 +1,29 @@
+stale-issue-message: |
+  This issue has been automatically marked as stale because it has not had recent activity within the last 60 days.
+  It will be closed if no further activity occurs within the next 7 days.
+  If this issue is still relevant, please comment to keep it open or update it. Thank you for your contributions!
+stale-pr-message: |
+  This pull request has been automatically marked as stale because it has not had recent activity within the last 60 days.
+  It will be closed if no further activity occurs within the next 7 days.
+  If this PR is still relevant, please comment to keep it active or address any pending feedback. Thank you!
+
+close-issue-message: "This issue was closed due to inactivity."
+close-pr-message: "This pull request was closed due to inactivity."
+
+
+days-before-stale: 60
+days-before-close: 7
+
+
+
+exempt-milestones: true
+
+
+exempt-assignees: false 
+
+stale-issue-label: "Status: Stale"
+stale-pr-label: "Status: Stale"
+
+
+enable-pull-request-stale-reminders: true 
+
