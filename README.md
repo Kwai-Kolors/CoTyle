@@ -1,5 +1,5 @@
 
-# 🎨 [CVPR2026 Oral] A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space
+# 🎨 **[CVPR2026 Oral]** A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space
 <p align="center"> 
     <a href="https://arxiv.org/abs/2511.10555"><img alt="Build" src="https://img.shields.io/badge/arXiv-Paper-da282a.svg"></a>
     <a href="https://Kwai-Kolors.github.io/CoTyle/"><img alt="Build" src="https://img.shields.io/badge/Project%20Page-Homepage-yellow"></a> 
@@ -32,6 +32,7 @@ class="center">
 
 
 ## 🔥 News
+- [04/10/2026] The paper of CoTyle has been accepted as an **Oral at CVPR 2026**.
 - [11/18/2025] The [demo](https://huggingface.co/spaces/Kwai-Kolors/CoTyle) of CoTyle is released on Hugging Face.
 - [11/18/2025] The [weights](https://huggingface.co/Kwai-Kolors/CoTyle) of CoTyle are released on Hugging Face.
 - [11/18/2025] The [code](https://github.com/Kwai-Kolors/CoTyle) is released!
