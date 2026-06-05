@@ -1,5 +1,5 @@
 
-# 🎨 **[CVPR2026 Oral&Best Paper Candidate]** A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space
+# 🎨 **[CVPR2026 Oral&Award Candidate]** A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space
 <p align="center"> 
     <a href="https://arxiv.org/abs/2511.10555"><img alt="Build" src="https://img.shields.io/badge/arXiv-Paper-da282a.svg"></a>
     <a href="https://Kwai-Kolors.github.io/CoTyle/"><img alt="Build" src="https://img.shields.io/badge/Project%20Page-Homepage-yellow"></a> 
@@ -13,7 +13,7 @@
     <span style="color:#137cf3; font-family: Gill Sans">Shuhao Cui</span><sup>2</sup>,
     <span style="color:#137cf3; font-family: Gill Sans">Haoxiang Cao</span><sup>2,3</sup>,
     <span style="color:#137cf3; font-family: Gill Sans">Shuai Ma</span><sup>1</sup>,
-    <span style="color:#137cf3; font-family: Gill Sans">Kai Wu</span><sup>2,†</sup>,
+    <span style="color:#137cf3; font-family: Gill Sans">Changqian Yu</span><sup>2,†</sup>,
     <span style="color:#137cf3; font-family: Gill Sans">Guoliang Kang</span><sup>1,†</sup>
     <br>
     <sup>1</sup><span style="font-size: 16px">Beihang University</span>,
